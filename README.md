@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Mohamed Nasr 👋
 
-<!--
-**Mohamed-Nasr18/Mohamed-Nasr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about building scalable web applications, RESTful APIs, and clean backend architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Languages
+- PHP
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Backend Development
+- Laravel
+- Node.js
+- Express.js
+
+### Frontend
+- Angular
+- Bootstrap
+
+### Databases
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- Postman
+
+### API Development
+- RESTful APIs
+- API Integration
+- Authentication & Authorization
+
+### Software Engineering
+- OOP
+- SOLID Principles
+- Design Patterns (MVC, Repository, Factory, Singleton)
+
+### Testing & Quality Assurance
+- Unit Testing
+- Integration Testing
+- Performance Testing (JMeter)
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce API
+Backend API for managing products, orders, authentication, and user roles.
+
+### ✅ Task Management System
+Task management backend with authentication and role-based access control.
+
+### 🔐 Authentication System
+JWT authentication system built using Laravel and Node.js.
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: linkedin.com/in/mohamed-nasr18
+- Email: nasrmohamed575@gmail.com
