@@ -2,6 +2,10 @@
 
 Backend Developer passionate about building scalable web applications, RESTful APIs, and clean backend architectures.
 
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Nasr18&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🚀 Tech Stack
